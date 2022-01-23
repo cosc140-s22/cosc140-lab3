@@ -1,5 +1,17 @@
 # COSC140 lab 5
 
+## Answers to the five questions at the end of the lab description
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
 ## Lab feedback
 
  * How long did you spend on this lab?
