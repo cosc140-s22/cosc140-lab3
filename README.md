@@ -1,4 +1,4 @@
-# COSC140 lab 5
+# COSC140 lab 3
 
 ## Answers to the five questions at the end of the lab description
 
